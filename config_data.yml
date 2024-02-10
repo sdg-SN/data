@@ -49,7 +49,8 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
-    import_codes: true
+    import_codes: false 
+    # https://open-sdg.readthedocs.io/en/latest/data-configuration/ search import_codes
     import_series_attributes: true
     import_observation_attributes: true
     indicator_id_map:
