@@ -52,6 +52,8 @@ inputs:
     import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
+    indicator_id_map:
+     _L_030801_01: 3-8-1
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
   - class: InputYamlMeta
