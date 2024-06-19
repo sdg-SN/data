@@ -49,9 +49,12 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
-    import_codes: true
+    import_codes: false 
+    # https://open-sdg.readthedocs.io/en/latest/data-configuration/ search import_codes
     import_series_attributes: true
     import_observation_attributes: true
+    indicator_id_map:
+     _L_030801_01: 3-8-1
   - class: InputWordMeta
     path_pattern: meta/*-*.docm
   - class: InputYamlMeta
@@ -94,6 +97,8 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  - class: TranslationInputSdmx
+    source: 'LocalRegistry.xml'
 
 # Reporting status extra fields
 # -----------------------------
