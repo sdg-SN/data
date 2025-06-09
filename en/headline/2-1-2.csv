@@ -1,7 +1,1 @@
-Year,Value
-2015,14.0
-2016,21.0
-2017,22.1
-2018,15.6
-2019,15.06
-2020,25.0
+Year,Value,Observation status,Unit multiplier,UNIT_MEASURE,SERIES
