@@ -518,3 +518,8 @@ OTHER_DOC__GLOBAL: |-
 target_number: '1.1'
 goal_number: '1'
 indicator_sort_order: 01-01-01
+SDG_INDICATOR_INFO: >-
+  <p>1.1.1 SDG 1.1.1 Proportion of the population living below the international
+  poverty line, by sex, age, employment status, and geographical location
+  (urban/rural)</p>
+CONTACT: <p>ANSD-DGPPE</p>
