@@ -2,7 +2,7 @@
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
-# Languages
+# Languages 
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
