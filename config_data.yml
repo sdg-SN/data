@@ -1,4 +1,3 @@
-
 # This config file is for use with the `build_data` and `check_data` functions,
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
@@ -9,7 +8,7 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
-  - es
+  - fr
 
 # Destination directory
 # ---------------------
@@ -39,9 +38,12 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl_Multiple
-    path_pattern: 'data/*.xml'
-    dsd: 'LocalRegistry.xml'
+  #- class: InputSdmxMl_Multiple
+  #  path_pattern: 'data/*.xml'
+  #  dsd: 'LocalRegistry.xml'
+  - class: InputSdmxMl_Structure
+    source: https://sn.sdmx.afdb.org/ns-ws/rest/data/SN1,DF_SDG_NAIROBIWS_ID_TEST_001,1.0/A............../ALL/?detail=full&dimensionAtObservation=TIME_PERIOD
+    dsd: https://sn.sdmx.afdb.org/ns-ws/rest/datastructure/SN1/SDG/1.0/?detail=Full&references=Descendants
     dimension_map:
       REF_AREA|SN: ''
     drop_dimensions:
@@ -49,17 +51,20 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
-    import_codes: false 
-    # https://open-sdg.readthedocs.io/en/latest/data-configuration/ search import_codes
+    drop_singleton_dimensions: false
+    import_codes: true
     import_series_attributes: true
     import_observation_attributes: true
     indicator_id_map:
      _L_030801_01: 3-8-1
-  - class: InputWordMeta
-    path_pattern: meta/*-*.docm
+    request_params: 
+      headers: 
+        User-Agent: Open-SDG-Build-1 
   - class: InputYamlMeta
     path_pattern: indicator-config/*-*.yml
-    git: false
+    git: false  
+  - class: InputWordMeta
+    path_pattern: meta/*-*.docm
   - class: InputYamlMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.yml
@@ -93,12 +98,17 @@ translations:
   # This pulls in translations from a Git repository.
   - class: TranslationInputSdgTranslations
     source: https://github.com/open-sdg/sdg-translations.git
-    tag: 2.2.0
+    tag: 2.4.0-beta1
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
+  #- class: TranslationInputSdmx
+  #  source: 'LocalRegistry.xml'
   - class: TranslationInputSdmx
-    source: 'LocalRegistry.xml'
+    source: https://sn.sdmx.afdb.org/ns-ws/rest/datastructure/SN1/SDG/1.0/?detail=Full&references=Descendants
+    request_params:
+      headers:
+        User-Agent: Open-SDG-Build-1
 
 # Reporting status extra fields
 # -----------------------------
@@ -158,3 +168,23 @@ docs_metadata_fields:
       label: Units
     - key: graph_type
       label: Graph type
+
+indicator_options:
+  non_disaggregation_columns:
+    - Year
+    - Units
+    - Series
+    - Value
+    - GeoCode
+    - Observation status
+    - Unit multiplier
+    - Unit measure
+    - UNIT_MEASURE
+    - SERIES
+    - COMMENT_TS
+    - DATA_LAST_UPDATE
+  series_column: SERIES
+  unit_column: UNIT_MEASURE
+  observation_attributes:
+    - COMMENT_OBS
+    - SOURCE_DETAIL
