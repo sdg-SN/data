@@ -1,1 +1,10 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,62.0
+2016,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,64.0
+2017,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,67.88
+2018,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,69.6
+2019,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,76.0
+2020,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,80.0
+2021,Normal value,Units,Proportion of population with access to electricity [7.1.1],,,Percent,2021,82.0
+2018,Normal value,Units,Proportion of population with access to electricity [7.1.1],,Urban,Percent,2019,92.8
+2019,Normal value,Units,Proportion of population with access to electricity [7.1.1],,Urban,Percent,2019,94.0

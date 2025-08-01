@@ -1,1 +1,6 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Labour share of GDP [10.4.1],,Percent,2019,38.0
+2016,Normal value,Units,Labour share of GDP [10.4.1],,Percent,2019,37.8
+2017,Normal value,Units,Labour share of GDP [10.4.1],,Percent,2019,40.0
+2018,Normal value,Units,Labour share of GDP [10.4.1],,Percent,2019,41.5
+2019,Normal value,Units,Labour share of GDP [10.4.1],,Percent,2019,40.3

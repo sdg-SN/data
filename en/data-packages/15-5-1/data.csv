@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Red List Index [15.5.1],,Index,2020,0.95
+2016,Normal value,Units,Red List Index [15.5.1],,Index,2020,0.94
+2017,Normal value,Units,Red List Index [15.5.1],,Index,2020,0.94
+2018,Normal value,Units,Red List Index [15.5.1],,Index,2020,0.95
+2019,Normal value,Units,Red List Index [15.5.1],,Index,2020,0.94
+2020,Normal value,Units,Red List Index [15.5.1],,Index,2020,0.9

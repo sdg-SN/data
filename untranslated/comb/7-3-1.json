@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2015,2016,2017,2018,2019,2020],"OBS_STATUS":["A","A","A","A","A","A"],"UNIT_MULT":["0","0","0","0","0","0"],"SERIES":["EG_EGY_PRIM","EG_EGY_PRIM","EG_EGY_PRIM","EG_EGY_PRIM","EG_EGY_PRIM","EG_EGY_PRIM"],"REF_AREA":[null,null,null,null,null,null],"UNIT_MEASURE":["TEP","TEP","TEP","TEP","TEP","TEP"],"TIME_DETAIL":["2020","2020","2020","2020","2020","2020"],"Value":[0.26,0.28,0.21,0.21,0.22,0.22]},"edges":{"From":["OBS_STATUS","UNIT_MULT"],"To":["UNIT_MULT","TIME_DETAIL"]}}

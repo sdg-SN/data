@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,"Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",,City,Percent,2020,70.0
+2016,Normal value,Units,"Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",,City,Percent,2020,73.0
+2017,Normal value,Units,"Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",,City,Percent,2020,80.0
+2018,Normal value,Units,"Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",,City,Percent,2020,84.5
+2019,Normal value,Units,"Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",,City,Percent,2020,84.9
+2020,Normal value,Units,"Municipal Solid Waste collection coverage, by cities (%) [11.6.1]",,City,Percent,2020,86.5

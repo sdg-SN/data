@@ -1,1 +1,8 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,886.0
+2016,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,951.5
+2017,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,1024.68
+2018,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,1249.29
+2019,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,1435.99
+2020,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,1499.04
+2021,Normal value,Units,"Installed renewable electricity-generating capacity (watts per capita) [7.b.1, 12.a.1]",,Watts per capita,2021,1616.4
