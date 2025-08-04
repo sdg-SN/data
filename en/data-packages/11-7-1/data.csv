@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Area of landscaped green spaces,,City,Hectares,2020,5
+2016,Normal value,Units,Area of landscaped green spaces,,City,Hectares,2020,40
+2017,Normal value,Units,Area of landscaped green spaces,,City,Hectares,2020,65
+2018,Normal value,Units,Area of landscaped green spaces,,City,Hectares,2020,75
+2019,Normal value,Units,Area of landscaped green spaces,,City,Hectares,2020,77
+2020,Normal value,Units,Area of landscaped green spaces,,City,Hectares,2020,87

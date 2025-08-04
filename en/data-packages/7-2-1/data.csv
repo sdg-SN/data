@@ -1,1 +1,8 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,8.5
+2016,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,12.5
+2017,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,17.29
+2018,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,17.45
+2019,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,20.630000000000003
+2020,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,26.88
+2021,Normal value,Units,Share of renewable energies in installed capacity,,Percent,2021,28.4

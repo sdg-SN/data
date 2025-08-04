@@ -1,1 +1,7 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
+2015,A,0,Superficie des terres agricoles sous gestion durable (GDT),,HA,2020,1950592
+2016,A,0,Superficie des terres agricoles sous gestion durable (GDT),,HA,2020,500472
+2017,A,0,Superficie des terres agricoles sous gestion durable (GDT),,HA,2020,556052
+2018,A,0,Superficie des terres agricoles sous gestion durable (GDT),,HA,2020,405491
+2019,A,0,Superficie des terres agricoles sous gestion durable (GDT),,HA,2020,475441
+2020,A,0,Superficie des terres agricoles sous gestion durable (GDT),,HA,2020,441771

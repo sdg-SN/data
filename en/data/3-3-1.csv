@@ -1,1 +1,8 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.7000000000000001
+2016,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.7000000000000001
+2017,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.5
+2018,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.5
+2019,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.5
+2020,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.5
+2021,Normal value,Units,HIV/AIDS prevalence rate.,,Percent,2021,0.5

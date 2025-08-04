@@ -1,1 +1,8 @@
-Year,Value
+Year,OBS_STATUS,UNIT_MULT,SERIES,REF_AREA,UNIT_MEASURE,TIME_DETAIL,Value
+2015,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.7000000000000001
+2016,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.7000000000000001
+2017,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.5
+2018,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.5
+2019,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.5
+2020,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.5
+2021,A,0,Taux de prévalence du VIH/SIDA,,PT,2021,0.5

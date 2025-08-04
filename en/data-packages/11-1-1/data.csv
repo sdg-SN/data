@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Number of housing units,,Number,2020,12560
+2016,Normal value,Units,Number of housing units,,Number,2020,10008
+2017,Normal value,Units,Number of housing units,,Number,2020,6179
+2018,Normal value,Units,Number of housing units,,Number,2020,4742
+2019,Normal value,Units,Number of housing units,,Number,2020,8861
+2020,Normal value,Units,Number of housing units,,Number,2020,6626

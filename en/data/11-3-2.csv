@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Number of approved urban planning documents,,Number,2020,34
+2016,Normal value,Units,Number of approved urban planning documents,,Number,2020,37
+2017,Normal value,Units,Number of approved urban planning documents,,Number,2020,39
+2018,Normal value,Units,Number of approved urban planning documents,,Number,2020,39
+2019,Normal value,Units,Number of approved urban planning documents,,Number,2020,42
+2020,Normal value,Units,Number of approved urban planning documents,,Number,2020,80
