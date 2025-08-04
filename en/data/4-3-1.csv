@@ -1,1 +1,15 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,Education level,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,7.0
+2016,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,9.0
+2017,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,12.5
+2018,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,21.0
+2019,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,1.49
+2020,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,6.9
+2021,Normal value,Units,Growth rate of FPT staff numbers,,Post-secondary non-tertiary vocational education,Percent,2021,7.7
+2015,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,6.76
+2016,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,6.88
+2017,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,7.27
+2018,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,8.15
+2019,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,8.22
+2020,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,13.78
+2021,Normal value,Units,Gross enrollment ratio in tertiary education.,,Tertiary education,Percent,2021,14.75
