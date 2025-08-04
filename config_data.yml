@@ -61,6 +61,9 @@ inputs:
      _L_SN_040601_1: 4-6-1
      _L_SN0140701_1: 14-7-1
      AG_LND_FRSTMGT: 15-1-2
+     _L_SN_040101_1:  4-1-1
+     _L_SN_040101_2: 4-1-1
+
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
