@@ -63,6 +63,12 @@ inputs:
      AG_LND_FRSTMGT: 15-1-2
      _L_SN_040101_1:  4-1-1
      _L_SN_040101_2: 4-1-1
+     VC_VAW_MARR: 5-2-1
+     VC_VAW_PSYV: 5-2-1
+     VC_VAW_PHYV: 5-2-1
+     VC_VAW_SEXV: 5-2-1
+
+
 
     request_params: 
       headers: 
