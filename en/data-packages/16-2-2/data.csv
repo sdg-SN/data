@@ -1,1 +1,5 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2017,Normal value,Units,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 100,000 population",2020,68
+2018,Normal value,Units,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 100,000 population",2020,124
+2019,Normal value,Units,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 100,000 population",2020,448
+2020,Normal value,Units,"Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",,"Per 100,000 population",2020,476

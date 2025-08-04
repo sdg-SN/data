@@ -1,1 +1,7 @@
-Year,Value
+Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+2015,Normal value,Units,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2021,66.17
+2016,Normal value,Units,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2021,66.15
+2018,Normal value,Units,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2021,68.56
+2019,Normal value,Units,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2021,72.45
+2020,Normal value,Units,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2021,63.22
+2021,Normal value,Units,Proportion of domestic budget funded by domestic taxes [17.1.2],,Percent,2021,65.75
