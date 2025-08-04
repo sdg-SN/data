@@ -61,15 +61,15 @@ inputs:
      _L_SN_040601_1: 4-6-1
      _L_SN0140701_1: 14-7-1
      AG_LND_FRSTMGT: 15-1-2
-     _L_SN_040101_1:  4-1-1
+     _L_SN_040101_1: 4-1-1
      _L_SN_040101_2: 4-1-1
+     _L_SN_040202_1: 4-2-2
+     _L_SN_040301_1: 4-3-1     
+     _L_SN_040301_2: 4-3-1
      VC_VAW_MARR: 5-2-1
      VC_VAW_PSYV: 5-2-1
      VC_VAW_PHYV: 5-2-1
      VC_VAW_SEXV: 5-2-1
-
-
-
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
