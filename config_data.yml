@@ -57,6 +57,7 @@ inputs:
     import_observation_attributes: true
     indicator_id_map:
      _L_030801_01: 3-8-1
+     _L_SN_0100101_1: 10-1-1
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
