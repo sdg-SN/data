@@ -58,6 +58,9 @@ inputs:
     indicator_id_map:
      _L_030801_01: 3-8-1
      _L_SN_0100101_1: 10-1-1
+     _L_SN_040601_1: 4-6-1
+     _L_SN0140701_1: 14-7-1
+     AG_LND_FRSTMGT: 15-1-2
     request_params: 
       headers: 
         User-Agent: Open-SDG-Build-1 
