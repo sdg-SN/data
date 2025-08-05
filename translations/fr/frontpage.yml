@@ -3,3 +3,12 @@ membersofteam_content: Voir les structures administratives qui participent à la
 right_card_info: Plus d'informations sur les données concernant le Sénégal/ANSD.
 right_card_info_content: Pour les données relatives aux autres secteurs (économie, démographie, social).
 read_more: Plus d'informations
+
+second_header: "Membres de l'équipe"
+second_content: |
+    [Plus d'informations](https://www.ansd.sn/) Voir les structures administratives qui participent à la production des données
+# second_text: "Access Data Hub"
+# second_link: <a href="https://sdgcif-data-canada-oddcic-donnee.github.io/">Canadian Indicator Framework Data Hub</a>
+third_header: "Plus d'informations sur les données concernant le Sénégal/ANSD."
+third_content: |
+    [Plus d'informations](https://www.ansd.sn/) Pour les données relatives aux autres secteurs (économie, démographie, social).
