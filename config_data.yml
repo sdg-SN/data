@@ -231,6 +231,8 @@ indicator_options:
     - SERIES
     - COMMENT_TS
     - DATA_LAST_UPDATE
+    - UNIT_MULT
+    - OBS_STATUS
   series_column: SERIES
   unit_column: UNIT_MEASURE
   observation_attributes:
