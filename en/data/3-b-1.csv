@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
+Year,OBS_STATUS,UNIT_MULT,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,Time period details,Value
 2015,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,,Percent,2019,68.0
 2016,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,,Percent,2019,69.8
 2017,Normal value,Units,Proportion of the target population covered by all vaccines included in their national programme [3.b.1],,,,Percent,2019,74.7

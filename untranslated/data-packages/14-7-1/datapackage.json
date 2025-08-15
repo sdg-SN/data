@@ -16,23 +16,11 @@
           },
           {
             "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "9",
-                ""
-              ]
-            }
+            "type": "string"
           },
           {
             "name": "SERIES",

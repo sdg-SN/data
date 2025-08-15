@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
+Year,OBS_STATUS,UNIT_MULT,SERIES,Reference area,UNIT_MEASURE,Time period details,Value
 2011,Normal value,Units,"Redistributive impact of fiscal policy, Gini index (%) [10.4.2]",,Percent,2019,40.28
 2017,Normal value,Units,"Redistributive impact of fiscal policy, Gini index (%) [10.4.2]",,Percent,2019,37.4
 2018,Normal value,Units,"Redistributive impact of fiscal policy, Gini index (%) [10.4.2]",,Percent,2019,34.8

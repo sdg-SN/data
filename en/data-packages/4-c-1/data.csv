@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Education level,UNIT_MEASURE,Time period details,Value
+Year,OBS_STATUS,UNIT_MULT,SERIES,Reference area,Education level,UNIT_MEASURE,Time period details,Value
 2015,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,77.5
 2016,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,93.8
 2017,Normal value,Units,"Proportion of teachers with the minimum required qualifications, by education level and sex [4.c.1]",,Pre-primary education,Percent,2021,94.1

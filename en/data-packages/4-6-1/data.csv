@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,SERIES,Reference area,Sex,Age,Education level,UNIT_MEASURE,Time period details,Value
+Year,OBS_STATUS,UNIT_MULT,SERIES,Reference area,Sex,Age,Education level,UNIT_MEASURE,Time period details,Value
 2017,Normal value,Units,Adult literacy rate.,,,15 years old and over,Primary and lower secondary education (basic education),Percent,2018,52.1
 2018,Normal value,Units,Adult literacy rate.,,,15 years old and over,Primary and lower secondary education (basic education),Percent,2018,51.8
 2015,Normal value,Units,Adult literacy rate.,,Female,15 years old and over,Primary and lower secondary education (basic education),Percent,2016,42.1
