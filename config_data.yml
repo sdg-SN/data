@@ -51,6 +51,8 @@ inputs:
       - REPORTING_TYPE
       - NATURE
       - TIME_COVERAGE
+      - UNIT_MULT
+      - OBS_STATUS
     drop_singleton_dimensions: false
     import_codes: true
     import_series_attributes: true
