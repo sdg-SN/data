@@ -17,14 +17,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -84,14 +76,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -155,14 +139,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -222,14 +198,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -293,14 +261,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -360,14 +320,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -430,14 +382,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -509,14 +453,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -617,14 +553,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -684,14 +612,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -755,14 +675,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -824,14 +736,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -891,14 +795,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -973,14 +869,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1050,14 +938,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -1131,14 +1011,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -1234,14 +1106,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1324,14 +1188,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1405,14 +1261,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1482,14 +1330,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -1564,14 +1404,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1644,14 +1476,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1711,14 +1535,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -1782,14 +1598,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1849,14 +1657,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -1920,14 +1720,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -1987,14 +1779,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -2058,14 +1842,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2125,14 +1901,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -2208,14 +1976,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2275,14 +2035,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -2357,14 +2109,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2426,14 +2170,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2493,14 +2229,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -2574,14 +2302,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2641,14 +2361,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -2712,14 +2424,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2781,14 +2485,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -2848,14 +2544,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -2931,14 +2619,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3000,14 +2680,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -3073,14 +2745,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3140,14 +2804,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -3224,14 +2880,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -3315,14 +2963,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3396,14 +3036,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -3489,14 +3121,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3571,14 +3195,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3651,14 +3267,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -3755,14 +3363,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3846,14 +3446,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -3925,14 +3517,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4002,14 +3586,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -4093,14 +3669,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4162,14 +3730,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4229,14 +3789,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -4310,14 +3862,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4389,14 +3933,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4456,14 +3992,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -4537,14 +4065,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4604,14 +4124,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -4675,14 +4187,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4742,14 +4246,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -4813,14 +4309,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4882,14 +4370,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -4949,14 +4429,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -5030,14 +4502,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -5108,14 +4572,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -5192,14 +4648,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -5271,14 +4719,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -5338,14 +4778,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
@@ -5429,14 +4861,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "constraints": {
@@ -5496,14 +4920,6 @@
           {
             "name": "Year",
             "type": "integer"
-          },
-          {
-            "name": "OBS_STATUS",
-            "type": "string"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string"
           },
           {
             "name": "SERIES",
