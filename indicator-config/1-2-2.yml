@@ -38,7 +38,7 @@ graph_types: []
 indicator_available: ''
 indicator_tabs: {}
 placeholder: ''
-progress_calculation_options: {}
+progress_calculation_options: []
 progress_status: ''
 proxy: ''
 proxy_series: []
